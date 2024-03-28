@@ -1,0 +1,6 @@
+./.eslintrc.js
+./node_modules
+./index.js 
+./tmp.html
+./package.json
+./package-lock.json
